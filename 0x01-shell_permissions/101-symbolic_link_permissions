@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -la
+chown vincent:staff hello
