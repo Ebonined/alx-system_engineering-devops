@@ -1,0 +1,1 @@
+echo {a..z}{a..z}. | tr -d " " | rev | cut -dV "." -f 2- | rev | tr "." "\n"
